@@ -22,7 +22,7 @@ Here are a few of the projects I’ve worked on:
 ### 1. **[Rational Cyberlabs]**  
 A platform sharing cybersecurity knowledge using Firebase for backend services.
 
-### 2. **[Nameless]**  
+### 2. **[Confidencial]**  
 A food blogging website built using Next.js and Firebase, featuring user interaction through posts and comments.
 
 ### 3. **[PDF to Voice Converter]**  
