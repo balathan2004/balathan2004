@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @balathan2004
-Here’s an updated version of your README with the blog and contact sections removed, and adjustments made to reflect your expertise:
+
 
 ---
 
