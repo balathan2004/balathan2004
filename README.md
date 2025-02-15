@@ -21,8 +21,8 @@ Here are a few of the projects I’ve worked on:
 ### 1. **[Rational Cyberlabs]**  
 A platform sharing cybersecurity knowledge using Firebase for backend services.
 
-### 2. **[Confidencial]**  
-A food blogging website built using Next.js and Firebase, featuring user interaction through posts and comments.
+### 2. **[Collab Quotes]**  
+A Quote sharing platform  built using SERN Stack , featuring user sharing quotes . Both Website And Android App
 
 ### 3. **[PDF to Voice Converter]**  
 An app that converts PDF documents to speech using Google Text-to-Speech (gTTS).
