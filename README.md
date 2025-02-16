@@ -8,10 +8,10 @@ I’m a Full-Stack Developer with expertise in JavaScript, TypeScript, Next.js, 
 
 ## 🚀 Technologies & Tools I Work With
 
-- **Languages**: JavaScript, TypeScript, C
-- **Frontend**: React,
+- **Languages**: JavaScript, TypeScript, React Native , C , 
+- **Frontend**: React,React Native
 - **Backend**: Node.js, Next.js ,
-- **Database**: Firebase , 
+- **Database**: Firebase , Supabase , MongoDB 
 - **Version Control**: Git, GitHub
 
 ## 💡 My Projects
@@ -28,7 +28,7 @@ A Quote sharing platform  built using SERN Stack , featuring user sharing quotes
 An app that converts PDF documents to speech using Google Text-to-Speech (gTTS).
 
 ### 4. **[Minimal Blogger]**  
-A social media app with features like posting, real-time updates.
+A social media app with features like posting, real-time updates. Both Website And Android App
 
 <!---
 balathan2004/balathan2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
