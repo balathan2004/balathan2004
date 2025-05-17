@@ -1,35 +1,42 @@
-# 👋 Hello, I'm Light!  
 
-I’m a Full-Stack Developer with expertise in JavaScript, TypeScript, Next.js, and Firebase. I specialize in building dynamic and user-friendly web applications, with a focus on creating efficient, scalable solutions. My projects range from social media clones to food blogging platforms, and I enjoy bringing ideas to life through code.  
+# 👋 Hello, I'm Light!
 
-## 🚀 Technologies & Tools I Work With  
+I’m a **Full-Stack Web & React Native Developer** with expertise in **JavaScript**, **TypeScript**, **Next.js**, **Firebase**, and **React Native**.
+I build dynamic, user-friendly web & mobile applications, focusing on efficient and scalable solutions. From social platforms to productivity apps, I love turning ideas into real products.
 
-- **Languages**: JavaScript, TypeScript, React Native, C  
-- **Frontend**: React, React Native  
-- **Backend**: Node.js, Next.js  
-- **Database**: Firebase, Supabase, MongoDB  
-- **Version Control**: Git, GitHub  
+## 🚀 Technologies & Tools I Work With
 
-## 💡 My Projects  
+* **Languages**: JavaScript, TypeScript, React Native, C
+* **Frontend**: React, React Native
+* **Backend**: Node.js, Next.js
+* **Database**: Firebase, Supabase, MongoDB
+* **Version Control**: Git, GitHub
 
-Here are a few of the projects I’ve worked on:  
+## 💡 Projects I've Built
 
-### 1. **[Rational Cyberlabs]**  
-A platform sharing cybersecurity knowledge using Firebase for backend services.  
+* **Rational Cyberlabs**
+  A platform sharing cybersecurity knowledge using Firebase for backend services.
 
-### 2. **[Collab Quotes]**  
-A quote-sharing platform built using the SERN stack, featuring user-shared quotes. Available as both a website and an Android app.  
+* **Collab Quotes (Web + Android App)**
+  A quote-sharing platform built with the SERN stack, featuring user-submitted quotes to promote collaboration & motivation.
 
-### 3. **[PDF to Voice Converter]**  
-An app that converts PDF documents to speech using Google Text-to-Speech (gTTS).  
+* **EBook Reader**
+  A web app that converts written text into audio, enhancing accessibility with text-to-speech features.
 
-### 4. **[Minimal Blogger]**  
-A social media app with features like posting and real-time updates. Available as both a website and an Android app.  
+* **Minimal Blogger (Web + Android App)**
+  A minimal social media blogging platform with posting, real-time updates, and a clean UI.
 
-### 5. **[Rough Note]**  
-A note-sharing website for quick and simple collaboration on notes.  
+* **Rough Note (Web + Android App)**
+  A simple, fast note-taking and sharing platform for quick collaboration.
 
----  
+* **Bill Book**
+  A personal expense tracker and budgeting app built with Next.js, TypeScript, and Firebase.
 
-💻 **Code is not just about syntax; it's about bringing ideas to life.**  
+* **Shadow Talk**
+  A simple real-time messaging web app built using **MERN stack** and **GraphQL**, focusing on seamless and lightweight communication.
+
+---
+
+💻 *"Code is not just about syntax; it's about bringing ideas to life."*
+
 
